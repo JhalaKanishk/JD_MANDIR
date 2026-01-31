@@ -149,7 +149,7 @@ export default function Contact() {
                 className="rounded-xl overflow-hidden shadow-card border border-border"
               >
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3536.4607093953843!2d77.66661841505757!3d27.574892482841477!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39736ce47bffc039%3A0xfe5fc3e96512c21c!2sBanke%20Bihari%20Temple!5e0!3m2!1sen!2sin!4v1635000000000!5m2!1sen!2sin"
+                  src="https://www.google.com/maps/embed?pb=!1m12!1m8!1m3!1d110389.7840828969!2d73.7256605!3d24.5459117!3m2!1i1024!2i768!4f13.1!2m1!1sjagdish%20mandir%20location!5e1!3m2!1sen!2sin!4v1769867070512!5m2!1sen!2sin" 
                   width="100%"
                   height="300"
                   style={{ border: 0 }}
@@ -158,6 +158,7 @@ export default function Contact() {
                   referrerPolicy="no-referrer-when-downgrade"
                   title="Temple Location"
                 />
+                
               </motion.div>
             </motion.div>
 

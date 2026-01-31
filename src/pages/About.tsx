@@ -2,7 +2,7 @@ import { motion, useInView } from 'framer-motion';
 import { useRef } from 'react';
 import { Layout } from '@/components/layout/Layout';
 import { Heart, Building, Users, BookOpen } from 'lucide-react';
-import krishnaDeity from '@/assets/krishna-deity.jpg';
+import krishnaDeity from '@/assets/krishna-deity.jpeg';
 import templeInterior from '@/assets/gallery/temple-interior.jpeg';
 
 const timeline = [
